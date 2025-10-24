@@ -91,7 +91,7 @@ Please review their privacy policies for details on their processing.
   - To inform you about driver selection, ride updates, and important alerts. Requested at runtime for supported Android versions.
 
 - **Internet (INTERNET)**
-  - To communicate securely with our backend (e.g., https://api.pickupkaro.in) and third‑party services such as Google Maps.
+  - To communicate securely with our backend and third‑party services such as Google Maps.
 
 - **Vibrate (VIBRATE)**
   - To add vibration feedback for critical notifications.
